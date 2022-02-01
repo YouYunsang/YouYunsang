@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-flat&logo=C%2B%2B&logoColor=white">
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?YouYunsang=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Yunsang's GitHub stats](https://github-readme-stats.vercel.app/api?YouYunsang=anuraghazra)](https://github.com/YouYunsang/github-readme-stats)
 
 
 
