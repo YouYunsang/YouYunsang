@@ -18,10 +18,11 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-flat&logo=C%2B%2B&logoColor=white">
 </div>
 
+<br>
 
-<div style="margin: 0 auto">
+<div align = center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouYunsang&theme=vue-dark&show_icons=true)](https://github.com/YouYunsang)
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouYunsang&theme=buefy&show_icons=true&layout=compact)](https://github.com/YouYunsang)
 </div>
 
