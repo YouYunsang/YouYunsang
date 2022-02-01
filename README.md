@@ -19,9 +19,9 @@
 </div>
 
 <div align = center>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouYunsang&theme=buefy&show_icons=true)](https://github.com/YouYunsang)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouYunsang&theme=vue-dark&show_icons=true)](https://github.com/YouYunsang)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouYunsang)](https://github.com/YouYunsang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouYunsang&theme=buefy&show_icons=true&layout=compact)](https://github.com/YouYunsang)
 </div>
 
 
