@@ -19,7 +19,7 @@
 </div>
 
 
-<div align = center>
+<div style="margin: 0 auto">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouYunsang&theme=vue-dark&show_icons=true)](https://github.com/YouYunsang)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouYunsang&theme=buefy&show_icons=true&layout=compact)](https://github.com/YouYunsang)
