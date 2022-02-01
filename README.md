@@ -15,7 +15,7 @@
 <h3 align = center> 💻 Tech Stacks 💻 </h3>
 
 <div align = center>
-<img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B>
+<img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B">
 </div>
 
 <!---
