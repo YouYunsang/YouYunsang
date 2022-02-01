@@ -1,6 +1,4 @@
-<h2 align = center>
-this is an H1
-</div>
+<h2 align = center> 🙊 About Me 🙊 </h2>
 
 
 - 👋🏫 
