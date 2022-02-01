@@ -1,6 +1,5 @@
-<div align = center> 
+<h2 align = center>
 this is an H1
--------------
 </div>
 
 
