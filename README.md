@@ -18,9 +18,11 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-flat&logo=C%2B%2B&logoColor=white">
 </div>
 
-[![Yunsang's GitHub stats](https://github-readme-stats.vercel.app/api?YouYunsang=anuraghazra)](https://github.com/YouYunsang/github-readme-stats)
+<div align = center>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouYunsang&theme=buefy&show_icons=true)](https://github.com/YouYunsang)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouYunsang)](https://github.com/YouYunsang/github-readme-stats)
+</div>
 
 
 
