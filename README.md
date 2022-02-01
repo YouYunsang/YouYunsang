@@ -1,4 +1,6 @@
-<h2 align = center> 🙊 About Me 🙊 </h2>
+## Yun's Github
+
+<h3 align = center> 🙊 About Me 🙊 </h3>
 <hr/>
 
 <p align = center>
