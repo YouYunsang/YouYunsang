@@ -1,9 +1,12 @@
 <h2 align = center> 🙊 About Me 🙊 </h2>
 <hr/>
 
-🏫 Soongsil Univ. Global Media
-📚 Studying C++
-🎬 Let's live a relaxed life
+<p>
+🏫 Soongsil Univ. Global Media <br>
+📚 Studying C++ <br>
+🎬 Let's live a relaxed life <br>
+</p>
+
 
 <!---
 YouYunsang/YouYunsang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
