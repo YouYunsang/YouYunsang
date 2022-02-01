@@ -16,6 +16,7 @@
 
 <div align = center>
 <img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B">
+<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=white"/>
 </div>
 
 <!---
