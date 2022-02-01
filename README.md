@@ -1,7 +1,7 @@
 ## Yun's Github
+<hr/>
 
 <h3 align = center> 🙊 About Me 🙊 </h3>
-<hr/>
 
 <p align = center>
 🏫 Soongsil Univ. Global Media <br>
