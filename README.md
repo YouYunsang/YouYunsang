@@ -1,7 +1,7 @@
 <h2 align = center> 🙊 About Me 🙊 </h2>
 <hr/>
 
-<p>
+<p align = center>
 🏫 Soongsil Univ. Global Media <br>
 📚 Studying C++ <br>
 🎬 Let's live a relaxed life <br>
