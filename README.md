@@ -20,6 +20,14 @@
 
 <br>
 <br>
+<h3 align = center> 👉 MINE 👈 </h3>
+
+<div align = center>
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp 
+</div>
+
+<br>
+<br>
 <br>
 
 <div align=center>
