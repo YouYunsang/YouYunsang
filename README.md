@@ -20,7 +20,7 @@
 
 <br>
 <br>
-<h3 align = center> 👉 MINE 👈 </h3>
+<h3 align = center> 👉 With 👈 </h3>
 
 <div align = center>
 <a href="https://velog.io/@nada_dbstkddl"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@nada_dbstkddl"/></a>&nbsp
