@@ -1,11 +1,16 @@
-## Yun's Github
-<hr/>
+<div align = center>
+    
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yun's%20Github&fontSize=90&animation=fadeIn)
 
-<h3 align = center> 🙊 About Me 🙊 </h3>
+</div>
+
+<br>
 
 <div align = center>
+    
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldlsnd)](https://solved.ac/dldlsnd)
+    
 </div>
 
 
