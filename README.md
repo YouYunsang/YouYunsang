@@ -3,11 +3,10 @@
 
 <h3 align = center> 🙊 About Me 🙊 </h3>
 
-<p align = center>
-🏫 Soongsil Univ. Global Media <br>
-📚 Studying C++ <br>
-🎬 Let's live a relaxed life <br>
-</p>
+<div align = center>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldlsnd)](https://solved.ac/dldlsnd)
+</div>
 
 
 <br>
@@ -24,13 +23,11 @@
 
 <div align = center>
 <a href="https://velog.io/@nada_dbstkddl"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@nada_dbstkddl"/></a>&nbsp
-</div>
 
 <br>
 <br>
 <br>
 
-<div align=center>
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouYunsang&theme=vue-dark&show_icons=true)](https://github.com/YouYunsang)
     
